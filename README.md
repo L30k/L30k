@@ -4,7 +4,7 @@ Sou um estudante do Instituto Federal Goiano - Campus Iporá, cursando o 6º per
 
 ### Sobre Mim
 
-- 👨‍🎓 Sou estudante do Instituto Federal Goiano - Campus Iporá, cursando o 6º período de Bacharelado em Ciência da Computação.
+- 👨‍🎓 Sou estudante do Instituto Federal Goiano - Campus Iporá, cursando o 7º período de Bacharelado em Ciência da Computação.
 - 👨‍💻 Atualmente, estou focado em aprender e praticar programação.
 - 🌱 Estou sempre em busca de novos desafios e oportunidades de aprendizado.
 - 📫 Você pode entrar em contato comigo pelo [LinkedIn](https://www.linkedin.com/in/leonardo-yago-nascimento-silva-a800071ab/).
