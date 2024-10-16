@@ -1,6 +1,6 @@
 ### Olá, eu sou o Leonardo! 👋
 
-Sou um estudante do Instituto Federal Goiano - Campus Iporá, cursando o 7º período de Bacharelado em Ciência da Computação, apaixonado por programação e em busca de conhecimento na área da tecnologia. Abaixo, você encontrará algumas informações sobre as tecnologias que estou aprendendo e projetos em que estou trabalhando.
+Sou um estudante do Instituto Federal Goiano - Campus Iporá, cursando o 8º período de Bacharelado em Ciência da Computação, apaixonado por programação e em busca de conhecimento na área da tecnologia. Abaixo, você encontrará algumas informações sobre as tecnologias que estou aprendendo e projetos em que estou trabalhando.
 
 ### Sobre Mim
 
