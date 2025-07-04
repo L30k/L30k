@@ -1,7 +1,7 @@
 <!-- README estilizado para Leonardo Yago -->
 
 <h1 align="center">
-  👋 Olá, eu sou o <strong>Leonardo Yago</strong><br>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=3000&width=435&lines=%F0%9F%91%8B+Ol%C3%A1%2C+eu+sou+o+Leonardo+Yago." alt="Typing SVG" /></a>
 </h1>
 
 <p align="center">
