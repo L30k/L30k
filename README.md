@@ -7,7 +7,7 @@
 <p align="center">
 🎓 Bacharel em Ciência da Computação – IF Goiano (Campus Iporá) <br>
 🌐 Desenvolvedor Web e Mobile apaixonado por transformar ideias em soluções reais <br>
-📫 <a href="https://">leonardoyago.tech</a> • <a href="https://www.linkedin.com/in/leonardo-yago-nascimento-silva-a800071ab/">LinkedIn</a>
+📫 <a href="https://">leonardoyago.dev</a> • <a href="https://www.linkedin.com/in/leonardo-yago-nascimento-silva-a800071ab/">LinkedIn</a>
 </p>
 
 ---
@@ -44,10 +44,10 @@
 | [**Reconhecimento de Gestos em Smartwatches**](https://dl.acm.org/doi/10.1145/3691573.3691615) | Interação VR com LSTM | Python, Java, C# |
 | [**Controle de Veículos com Smartwatch**](https://link.springer.com/chapter/10.1007/978-3-031-60480-5_13) | Comandos por gesto | Java, C++ |
 | [**Exploração Gestual em Jogos Wearables**](https://link.springer.com/chapter/10.1007/978-3-031-77389-1_35) | Experiência alternativa de UI | Python, Java |
-| [**Pi Varejo (E‑commerce)**](https://leonardoyago.tech) | Plataforma com integração à criptomoeda Pi | Python, SQL |
+| [**Pi Varejo (E‑commerce)**](https://leonardoyago.dev) | Plataforma com integração à criptomoeda Pi | Python, SQL |
 
 🔍 Alguns dos meus projetos (como artigos, sites e demonstrações visuais) estão disponíveis **exclusivamente no meu site pessoal**:  
-👉 [leonardoyago.tech](https://leonardoyago.tech)
+👉 [leonardoyago.dev](https://leonardoyago.dev)
 
 ---
 
