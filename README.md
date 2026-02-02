@@ -60,4 +60,4 @@
 
 ---
 
-<p align="center">© 2025 <strong>Leonardo Yago</strong> — Feito com ❤️ e muita curiosidade.</p>
+<p align="center">© 2026 <strong>Leonardo Yago</strong> — Feito com ❤️ e muita curiosidade.</p>
