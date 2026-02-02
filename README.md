@@ -44,7 +44,8 @@
 | [**Reconhecimento de Gestos em Smartwatches**](https://dl.acm.org/doi/10.1145/3691573.3691615) | Interação VR com LSTM | Python, Java, C# |
 | [**Controle de Veículos com Smartwatch**](https://link.springer.com/chapter/10.1007/978-3-031-60480-5_13) | Comandos por gesto | Java, C++ |
 | [**Exploração Gestual em Jogos Wearables**](https://link.springer.com/chapter/10.1007/978-3-031-77389-1_35) | Experiência alternativa de UI | Python, Java |
-| [**Pi Varejo (E‑commerce)**](https://leonardoyago.dev) | Plataforma com integração à criptomoeda Pi | Python, SQL |
+| [**Pi Varejo (E-commerce)**](https://leonardoyago.dev) | Plataforma com integração à criptomoeda Pi | Python, SQL |
+| [**Reino de Asgard – Gestão de Guilda MMO**](https://reinodeasgard.com.br) | Plataforma web para gerenciamento de guilda, membros, eventos, DKP e leilões em jogos MMO | Node.js, React, MySQL |
 
 🔍 Alguns dos meus projetos (como artigos, sites e demonstrações visuais) estão disponíveis **exclusivamente no meu site pessoal**:  
 👉 [leonardoyago.dev](https://leonardoyago.dev)
