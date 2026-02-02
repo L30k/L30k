@@ -7,7 +7,7 @@
 <p align="center">
 🎓 Bacharel em Ciência da Computação – IF Goiano (Campus Iporá) <br>
 🌐 Desenvolvedor Web e Mobile apaixonado por transformar ideias em soluções reais <br>
-📫 <a href="https://">leonardoyago.dev</a> • <a href="https://www.linkedin.com/in/leonardo-yago-nascimento-silva-a800071ab/">LinkedIn</a>
+📫 <a href="https://leonardoyago.dev">leonardoyago.dev</a> • <a href="https://www.linkedin.com/in/leonardo-yago-nascimento-silva-a800071ab/">LinkedIn</a>
 </p>
 
 ---
