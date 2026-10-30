@@ -47,8 +47,8 @@
 
 | Project | Overview | Technologies |
 | --- | --- | --- |
-| [**Discord Call Recorder**](https://github.com/L30k/discord-call-recorder) | Windows tray app that records Discord audio and microphone locally in Opus, with Portuguese and English UI. Source available for noncommercial use. | C#, .NET 10, WASAPI, FFmpeg |
 | [**Akko TAC75 HE × SignalRGB**](https://github.com/L30k/akko-tac75-signalrgb) | Experimental per-key lighting integration for SignalRGB. Still being tested; requires modified firmware and specific hardware/firmware versions. See the repository for requirements and limitations. | JavaScript, Python |
+| [**Discord Call Recorder**](https://github.com/L30k/discord-call-recorder) | Windows tray app that records Discord audio and microphone locally in Opus, with Portuguese and English UI. Source available for noncommercial use. | C#, .NET 10, WASAPI, FFmpeg |
 | [**Pi Varejo**](https://leonardoyago.dev) | E-commerce platform with Pi cryptocurrency integration. Project information in my portfolio. | Python, SQL |
 | [**Reino de Asgard**](https://reinodeasgard.com.br) | Web platform for managing MMO guild members, events, DKP, and auctions. | Python, Django, MySQL |
 
@@ -98,8 +98,8 @@ C · Java · Python · JavaScript · PHP · MySQL · Docker · Django · Node.js
 
 | Projeto | Descrição | Tecnologias |
 | --- | --- | --- |
-| [**Discord Call Recorder**](https://github.com/L30k/discord-call-recorder) | Aplicativo para Windows que grava áudio do Discord e microfone localmente em Opus, com interface em português e inglês. Código disponível para uso não comercial. | C#, .NET 10, WASAPI, FFmpeg |
 | [**Akko TAC75 HE × SignalRGB**](https://github.com/L30k/akko-tac75-signalrgb) | Integração experimental para iluminação por tecla no SignalRGB. Ainda em testes; exige firmware modificado e versões específicas de hardware e firmware. Consulte os requisitos e as limitações no repositório. | JavaScript, Python |
+| [**Discord Call Recorder**](https://github.com/L30k/discord-call-recorder) | Aplicativo para Windows que grava áudio do Discord e microfone localmente em Opus, com interface em português e inglês. Código disponível para uso não comercial. | C#, .NET 10, WASAPI, FFmpeg |
 | [**Pi Varejo**](https://leonardoyago.dev) | Plataforma de e-commerce com integração à criptomoeda Pi. Informações no portfólio. | Python, SQL |
 | [**Reino de Asgard**](https://reinodeasgard.com.br) | Plataforma web para gestão de guildas MMO, membros, eventos, DKP e leilões. | Python, Django, MySQL |
 
